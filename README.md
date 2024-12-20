@@ -45,9 +45,6 @@ If you have questions or suggestions, feel free to contact the developer.
 
 --- 
 
-Enjoy the app!
-
---- 
 
 # Namaz Time App
 
