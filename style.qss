@@ -1,0 +1,29 @@
+QWidget {
+    background-color: rgba(40, 40, 40, 0.9);
+    color: white;
+    font-family: Arial;
+    font-size: 14px;
+    border-radius: 10px;
+}
+
+QLabel#weatherLabel {
+    color: lightblue;
+    font-size: 16px;
+}
+
+QLabel#prayerLabel {
+    color: lightgreen;
+    font-size: 16px;
+}
+
+QPushButton {
+    background-color: lightgray;
+    border: none;
+    color: black;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+QPushButton:hover {
+    background-color: darkgray;
+}
