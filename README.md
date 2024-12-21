@@ -24,6 +24,15 @@ Some antivirus software may flag this app due to network requests (to the weathe
 
 ---
 
+## 🛠 Installation and Usage
+Download Ready-to-Use File
+You can download the precompiled version of the app from the following link:
+Download [EXE File](https://github.com/DRAK0NN/Time-Namaz-App/releases/tag/exe)
+
+Just download and run the app. Ensure your antivirus does not block the file.
+
+---
+
 ## 🖥 Interface
 
 1. **Prayer Times:** Displays the prayer schedule for the current date.
@@ -71,6 +80,14 @@ If you have questions or suggestions, feel free to contact the developer.
 
 ---
 
+## 🛠 Установка и использование
+Загрузка готового файла
+Вы можете скачать готовую версию приложения по следующей ссылке:
+Скачать [EXE файл](https://github.com/DRAK0NN/Time-Namaz-App/releases/tag/exe)
+
+Просто скачайте и запустите приложение. Убедитесь, что антивирус не блокирует файл.
+
+---
 
 ## 🖥 Интерфейс
 
